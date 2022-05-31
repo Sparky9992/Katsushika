@@ -31,8 +31,7 @@ export default class Command extends BaseCommand {
 
 ⚜𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: A reversed version of Asuna bot. 
 
-🚥𝗦𝘁𝗮𝘁𝘂𝘀: Katsushika is an open source project, therefore you can deploy it here;
-https://github.com/Issa2001/Katsushika
+   YOU WANT REPO ¯\_( ͡° ͜ʖ ͡°)_/¯...?
 
 📑𝗟𝗶𝗰𝗲𝗻𝘀𝗲: You may obtain a copy of the License at;
 http://www.gnu.org/licenses/
