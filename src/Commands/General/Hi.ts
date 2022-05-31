@@ -28,7 +28,7 @@ export default class Command extends BaseCommand {
     ];
 
     const buttonMessage: any = {
-      contentText: `Hello *${M.sender.username}👋*, I'm present! How may I help you? `,
+      contentText: `Hello *${M.sender.username}👋*, Supp homie! How may I help you? `,
       footerText: "© Katsushika",
       buttons: buttons,
       headerType: 1,
