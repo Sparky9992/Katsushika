@@ -306,7 +306,7 @@ export default class MessageHandler {
   handleState = async (): Promise<void> => {
     const text = `KATSUSHIKA RECONNECTED🚀`;
     await this.client.sendMessage(
-      ""120363044419432032@g.us"",
+      "120363044419432032@g.us",
       text,
       MessageType.text
     );
@@ -315,7 +315,7 @@ export default class MessageHandler {
   sendReconnectMessage = async (): Promise<void> => {
     const text = `KATSUSHIKA RECONNECTED🚀`;
     await this.client.sendMessage(
-      ""120363044419432032@g.us"",
+      "120363044419432032@g.us",
       text,
       MessageType.text
     );
