@@ -30,20 +30,14 @@ export default class Command extends BaseCommand {
 				caption: `Hey pal!🍃I'm Issa, a learner/student & an upcoming developer in the future.
             
 📫𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥;
-Wa.me/254115175696
-Wa.me/16156236963
+Wa.me/918839439805
+
 
 ⭕𝙂𝙞𝙩𝙝𝙪𝙗;
-https://github.com/Issa2001
+https://github.com/Sparky9992
 
 📮𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢;
-https://instagram.com/__.i.s.s.a.__
-
-🕸𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢;
-t.me/Issa2001
-
-🟦𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠;
-https://www.facebook.com/profile.php?id=100037298193290
+https://instagram.com/oyepiyush09
 
 🚀𝘿𝙞𝙨𝙘𝙤𝙧𝙙;
 ｟𝖢𝗈𝗆𝗂𝗇𝗀 𝖲𝗈𝗈𝗇｠
